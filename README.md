@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# MovieLand
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repo is part of the JavaScript Mastery course linked below. Here I built a movie application that uses an API to enable different movies to populate due to search terms.  
+
+https://www.youtube.com/watch?v=b9eMGE7QtTk&t=3620s
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
